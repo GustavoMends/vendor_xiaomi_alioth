@@ -539,6 +539,7 @@ PRODUCT_PACKAGES += \
     android.hardware.gnss@2.1-impl-qti \
     camera.qcom \
     com.qti.chi.override \
+    consumerir.kona \
     fingerprint.fpc.default \
     vendor.qti.esepowermanager@1.1-impl \
     vendor.qti.gnss@4.0-impl \
