@@ -412,10 +412,6 @@ PRODUCT_PACKAGES += \
     libspkrprot \
     libssrec \
     libsurround_3mic_proc \
-    libwfdcommonutils_proprietary \
-    libwfddisplayconfig_proprietary \
-    libwfdmmservice_proprietary \
-    libwfdutils_proprietary \
     libasphere \
     libshoebox \
     vendor.qti.hardware.audiohalext@1.0 \
