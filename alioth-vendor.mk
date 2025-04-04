@@ -334,9 +334,6 @@ PRODUCT_PACKAGES += \
     libadreno_utils \
     libadsprpc \
     libc2d30_bltlib \
-    libcapiv2svacnn \
-    libcapiv2svarnn \
-    libcapiv2vop \
     libcdsprpc \
     libdiag \
     libfastcvdsp_stub \
@@ -383,6 +380,9 @@ PRODUCT_PACKAGES += \
     libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
+    libcapiv2svacnn \
+    libcapiv2svarnn \
+    libcapiv2vop \
     libcomprcapture \
     libdrc \
     libexthwplugin \
