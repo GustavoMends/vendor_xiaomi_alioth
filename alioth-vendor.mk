@@ -363,7 +363,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.3 \
     btaudio_offload_if \
     audio.primary.kona \
-    sound_trigger.primary.kona \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     liba2dpoffload \
     libacdb-fts \
