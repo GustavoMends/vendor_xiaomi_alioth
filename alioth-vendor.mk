@@ -643,7 +643,6 @@ PRODUCT_PACKAGES += \
     libflaw \
     libfocus \
     libft2vendor \
-    libgame_enhance \
     libgdtap \
     libgeofencing \
     libgnss \

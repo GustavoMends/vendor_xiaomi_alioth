@@ -10493,36 +10493,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libgame_enhance",
-    owner: "xiaomi",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/lib64/libgame_enhance.so",
-            ],
-            shared_libs: [
-                "liblog",
-                "libsdm-color",
-                "libtinyxml2_1",
-                "libcutils",
-                "libutils",
-                "libdisplayskuutils",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
     name: "libgdtap",
     owner: "xiaomi",
     strip: {
